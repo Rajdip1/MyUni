@@ -1,5 +1,6 @@
 package com.example.myuni
 
+import android.content.Intent
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.recyclerview.widget.LinearLayoutManager
@@ -43,6 +44,20 @@ class MainActivity : ComponentActivity() {
             "University of Windsor"
         )
 
+        val universityDetails = arrayOf(
+            getString(R.string.university_detail1),
+            getString(R.string.university_detail2),
+            getString(R.string.university_detail3),
+            getString(R.string.university_detail4),
+            getString(R.string.university_detail5),
+            getString(R.string.university_detail6),
+            getString(R.string.university_detail7),
+            getString(R.string.university_detail8),
+            getString(R.string.university_detail9),
+            getString(R.string.university_detail10),
+            getString(R.string.university_detail11)
+        )
+
         //to set hav bhav of inside recycler view horizontal, vertical, scroll, uniform grid
         myRecyclerView.layoutManager = LinearLayoutManager(this)
 
@@ -50,12 +65,26 @@ class MainActivity : ComponentActivity() {
         universityList = arrayListOf<UniversityInfo>()
 
         for (startingIndex in universityImgArray.indices){
-            val uni = UniversityInfo(universityNameArray[startingIndex],universityImgArray[startingIndex])
+            val uni = UniversityInfo(universityNameArray[startingIndex],
+                universityImgArray[startingIndex],
+                universityDetails[startingIndex])
             universityList.add(uni)
         }
 
         //set adapter
-        myRecyclerView.adapter = MyAdapter(universityList, this)
+        val myAdapter = MyAdapter(universityList,this)
+        myRecyclerView.adapter = myAdapter
+
+        myAdapter.setOnItemClickListener(object : MyAdapter.OnItemClickListener{
+            override fun OnItemClick(position: Int) {
+                val intent = Intent(applicationContext,UniversityDetails::class.java)
+                intent.putExtra("universityName",universityList[position].universityName)
+                intent.putExtra("universityImage",universityList[position].universityImage)
+                intent.putExtra("universityDetails",universityList[position].UniversityDetails)
+                startActivity(intent)
+            }
+
+        })
 
     }
 }

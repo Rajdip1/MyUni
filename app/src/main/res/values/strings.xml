@@ -1,3 +1,199 @@
 <resources>
     <string name="app_name">MyUni</string>
+    <string name="title_activity_university_details">UniversityDetails</string>
+    <string name="university_detail1" formatted="false">
+        The University of Arizona is a public land-grant research university in Tucson, Arizona.\n
+
+        Founded in 1885 by the 13th Arizona Territorial Legislature, it was the first university in the Arizona Territory. \n
+
+        The university is classified among "R1: Doctoral Universities – Very High Research Activity".\n
+
+        Avg cost after aid is $16K \n
+
+        Graduation rate is 64% \n
+
+        Acceptance rate is 87% \n
+
+        Arizona is a great state for international students looking for affordable and simple academic needs.\n
+
+        Now that we have covered most of the top universities in Arizona,
+        you can choose the one that fits your academic needs.\n
+
+        Arizona is generally a safe place to live, but like any state, there are areas that may have higher crime rates than others.\n
+
+        Some safe places are considered Oro Valley and Florence.
+
+    </string>
+    <string name="university_detail2" formatted="false">
+        The University of Florida is a public land-grant research university in Gainesville, Florida.\n
+
+        It is a senior member of the State University System of Florida.\n
+
+        The university traces its origins to 1853 and has operated continuously on its Gainesville campus since September 1906.\n
+
+        Avg cost after aid is $3679 \n
+
+        Graduation rate is 88% \n
+
+        Acceptance rate is 30% \n
+
+        Quality Education: The top universities in Florida pay special attention to international students.\n
+
+        They have specialised programs that would suit the educational demands of students from all over the world.\n
+
+        Better Living Lifestyle: Florida is a place that is known for its nightlife, events, theme parks, and cuisine.
+        Unlike the myth around Florida real estate being dirt cheap, Florida is truly a low-tax state.\n
+
+        One key feature of the state\'s tax system that bolsters affordability is the lack of a state income tax.\n
+
+        In Florida, residents don\'t have to part with any portion of their earnings due to state taxes.
+    </string>
+
+    <string name="university_detail3" formatted="false">
+        New York University is a private research university in New York City.\n
+        Chartered in 1831 by the New York State Legislature,
+        NYU was founded in 1832 by a group of New Yorkers led by Albert Gallatin as a non-denominational all-male institution near City Hall based on a curriculum focused on a secular education.\n
+
+        Avg cost after aid is $40K \n
+
+        Graduation rate is 85% \n
+
+        Acceptance rate is 13% \n
+
+        Scholarships and grants are types of financial aid you don\'t have to pay back. \n
+        NYU offers or recognizes many scholarship options, including programs for new students, current NYU undergraduates, and scholarships from outside sources. \n
+        In addition, NYU schools and colleges award their own scholarships.
+
+        We don\'t have minimum score requirements,\n
+        but competitive applicants will receive: 100 and above on the TOEFL iBT. 130 and above on the Duolingo English Test. 7.5 and above on the IELTS Academic.
+    </string>
+
+    <string name="university_detail4" formatted="false">
+        The University of Michigan (U-M, UMich, or simply Michigan) is a public research university in Ann Arbor, Michigan.\n
+        Founded in 1817, it is the oldest institution of higher education in the state.\n
+        The university consists of nineteen colleges and offers 250 degree programs at the undergraduate and graduate level across various liberal arts and STEM disciplines.\n
+        It is the largest university by enrollment in the state of Michigan, with over 52,000 students as of 2023.
+        It is one of the earliest American research universities and is a founding member of the Association of American Universities.\n
+        The university is classified among "R1: Doctoral Universities – Very High Research Activity" according to the Carnegie Classification of Institutions of Higher Education.\n
+        In 2021, it ranked 3rd among American universities in research expenditures according to the National Science Foundation. The university is accredited by the Higher Learning Commission.
+        Avg cost after aid is $17K \n
+
+        Graduation rate is 93% \n
+
+        Acceptance rate is 20% \n
+
+        The cost of living in Michigan is 3% lower than the national average.\n
+        Housing is 13% lower than the national average, while utilities are 0% .\n
+        When it comes to basic necessities such as food and clothing, groceries are around 1% higher than in the rest of the country, while clothing costs 1% higher.
+    </string>
+
+    <string name="university_detail5" formatted="false">
+        The University of Calgary is a public research university located in Calgary, Alberta, Canada.\n
+        The University of Calgary started in 1944 as the Calgary branch of the University of Alberta, founded in 1908, prior to being instituted into a separate, autonomous university in 1966.\n
+        Avg cost after aid is $17K \n
+
+        Graduation rate is 93% \n
+
+        Acceptance rate is 20% \n
+        Calgary has the lowest cost of living of most Canadian cities such as Montreal, Toronto, Ottawa and Vancouver.\n
+        It also offers affordable student accommodation including student housing, private apartments and university halls.\n
+        Each type of student accommodation in Calgary has its unique offers.
+    </string>
+
+    <string name="university_detail6" formatted="false">
+        The University of California, Los Angeles is a public land-grant research university in Los Angeles, California, United States.\n
+        Its academic roots were established in 1881 as a normal school then known as the southern branch of the California State Normal School. \n
+        Avg cost after aid is $12K \n
+
+        Graduation rate is 92% \n
+
+        Acceptance rate is 11% \n
+
+        Los Angeles County has 88 incorporated cities, one of which is Los Angeles.\n
+        Los Angeles has at least 114 named neighborhood, one of which is Westwood.\n
+        UCLA has its own zip code, 90095; some of the outskirts of the campus are in Westwood\'s zip code, 90024.
+    </string>
+
+    <string name="university_detail7" formatted="false">
+        The University of Illinois Urbana-Champaign is a public land-grant research university in Champaign, Illinois, and Urbana, Illinois.\n
+        It is the flagship institution of the University of Illinois system and was founded in 1867.
+
+         Avg cost after aid is $15K \n
+
+        Graduation rate is 85% \n
+
+        Acceptance rate is 60% \n
+
+        Illinois is home to the best universities.\n
+        These universities are widely recognised and offer a range of diverse courses and enhanced learning experiences.\n
+
+        With a large part of the student body classified as international (59% of grad students and 24% of undergrad students),
+        Illinois Institute of Technology is one of the few colleges with the most Indian students in the USA.
+    </string>
+
+    <string name="university_detail8" formatted="false">
+        The University of Illinois Urbana-Champaign is a public land-grant research university in Champaign, Illinois, and Urbana, Illinois.\n
+        It is the flagship institution of the University of Illinois system and was founded in 1867.
+
+         Avg cost after aid is $15K \n
+
+        Graduation rate is 85% \n
+
+        Acceptance rate is 60% \n
+
+        Illinois is home to the best universities.\n
+        These universities are widely recognised and offer a range of diverse courses and enhanced learning experiences.\n
+
+        With a large part of the student body classified as international (59% of grad students and 24% of undergrad students),
+        Illinois Institute of Technology is one of the few colleges with the most Indian students in the USA.
+    </string>
+    <string name="university_detail9" formatted="false">
+        The University of Austin is a private nonsectarian liberal arts university located in Austin, Texas.\n
+        In October 2023, the university received its certification to operate as a degree granting university from the Texas Higher Education Coordinating Board.\n
+        Address: 522 Congress Ave. STE 300, Austin, TX 78701, United States.\n
+        Avg cost after aid is $15K \n
+
+        Graduation rate is 85% \n
+
+        Acceptance rate is 60% \n
+
+        Tuition fees for international students are typically higher than for in state residents.\n
+        It\'s important to research the specific university or college you plan to attend and consider factors such as housing options, meal plans, and other living expenses.
+    </string>
+
+    <string name="university_detail10" formatted="false">
+        The University of North Carolina at Charlotte is a public research university in Charlotte, North Carolina.\n
+        UNC Charlotte offers 24 doctoral, 66 master\'s, and 79 bachelor\'s degree programs through nine colleges.\n
+        It is classified among "R2: Doctoral Universities – High research activity".\n
+        Avg cost after aid is $17K \n
+
+        Graduation rate is 64% \n
+
+        Acceptance rate is 79% \n
+
+        North Carolina is home to educational excellence.\n
+        We have 52 colleges and universities, including three Tier 1 research universities, and the third largest community college system in the U.S. North Carolina\'s education institutions award over 25,000 STEM degrees annually.
+
+        While the Tar Heel State has minor setbacks when it comes to daily quality of life,
+        the benefits of living in North Carolina far outweigh the bad! With beautiful outdoor views/activities,
+        great job opportunities, delicious food and rich history to explore,
+        the good times never get old when living in North Carolina.
+    </string>
+
+    <string name="university_detail11">
+        The University of Windsor is a public research university in Windsor, Ontario, Canada. \n
+        It is Canada\'s southernmost university.\n
+        It has approximately 17,500 students. \n
+        The university was incorporated by the provincial government in 1962 and has more than 150,000 alumni.\n
+        The University of Windsor\'s Acceptance Rate is 60%.\n
+        This means that out of every 100 applicants, 60 will be offered admission to the University.\n
+        Windsor ranks 38 out of 50 best Canadian cities for international students. Windsor has seen a rapid increase in the amount of international students in the city over the last few years,
+        but a recent list published by Clever Canadian said Windsor is the 38 best place for international students in a list of 50.\n
+        It has been ranked as one of the top universities in Canada and one of the top universities in the world.\n
+        There are over 200 programs offered at this university.\n
+        The University of Windsor also has an international student population with over 5,000 students from more than 100 countries.\n
+        Also called Rose City and The City of Roses,
+        Windsor is further renowned for its beautiful parks and gardens,
+        which are nestled along its waterfront.
+    </string>
 </resources>

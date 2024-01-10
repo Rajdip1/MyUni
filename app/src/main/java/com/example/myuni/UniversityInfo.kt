@@ -1,4 +1,8 @@
 package com.example.myuni
 
-data class UniversityInfo(val universityName: String, val universityImage: Int){
+data class UniversityInfo(
+    val universityName: String,
+    val universityImage: Int,
+    val UniversityDetails: String
+){
 }
